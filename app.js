@@ -1,1 +1,1 @@
-console.log('Server running!')
+console.log('Server running on localhost:5000!')
